@@ -25,6 +25,8 @@ description: The second part with own pagination is 'The Naseby papers. By Petro
   V. Nasby', with separate titlepage and frontispiece. The end- papers comprise 'A
   list of cheap books; ... published by Milner & Sowerby ... ', being 3p. at front
   and pp. 4-6 at end.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22680#The-Biglow-Papers
 gutenberg_issued: '2007-09-20'
 gutenberg_type: Text
 identifiers:
