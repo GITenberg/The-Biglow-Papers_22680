@@ -1,0 +1,41 @@
+_repo: The-Biglow-Papers_22680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowell, James Russell
+    aliases:
+    - Wilbur, Homer
+    - Meliboeus-Hipponax
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '456'
+    url: http://www.gutenberg.org/2009/agents/456
+    wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
+  editor:
+    agent_name: Hughes, Thomas
+    birthdate: 1822
+    deathdate: 1896
+    gutenberg_agent_id: '645'
+    url: http://www.gutenberg.org/2009/agents/645
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hughes
+description: The second part with own pagination is 'The Naseby papers. By Petroleum
+  V. Nasby', with separate titlepage and frontispiece. The end- papers comprise 'A
+  list of cheap books; ... published by Milner & Sowerby ... ', being 3p. at front
+  and pp. 4-6 at end.
+gutenberg_issued: '2007-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexican War, 1846-1848 -- Poetry'
+- !lcc 'PS'
+- !lcsh 'Slavery -- United States -- Poetry'
+title: The Biglow Papers
+url: http://www.gutenberg.org/ebooks/22680
